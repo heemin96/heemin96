@@ -37,6 +37,6 @@
   </br>
   </br>
   
-[![heemin96 GitHub stats](https://github-readme-stats.vercel.app/api?username=heemin96)](https://github.com/heemin96/github-readme-stats)
+<!-- [![heemin96 GitHub stats](https://github-readme-stats.vercel.app/api?username=heemin96)](https://github.com/heemin96/github-readme-stats) -->
 
   </div>
