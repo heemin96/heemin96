@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 
   </br>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  
   </br>
 <h3>Css skill</h3> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -38,6 +40,6 @@
   </br>
   
 <!-- [![heemin96 GitHub stats](https://github-readme-stats.vercel.app/api?username=heemin96)](https://github.com/heemin96/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heemin96)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heemin96)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heemin96)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heemin96)](https://github.com/anuraghazra/github-readme-stats)-->
   </div>
