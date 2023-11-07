@@ -20,6 +20,7 @@
 
   </br>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white"/>
   
   </br>
 <h3>Css skill</h3> 
