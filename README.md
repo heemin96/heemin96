@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white"/>
   
   </br>
+  <img src="https://img.shields.io/badge/Mqtt-660066?style=for-the-badge&logo=Mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  
+  </br>
 <h3>Css skill</h3> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
